@@ -1,5 +1,5 @@
 import numpy as np
-
+#this is the sample project of regression.
 class LinearRegressioN(object):
     
     #in constructor - defining all hyperparameter
